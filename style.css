@@ -1,5 +1,6 @@
 :root {
     --cor-de-fundo: #008B8B;
+    --cor-da-escrita: #E6E6FA;
 }
 
 body{
@@ -7,6 +8,6 @@ body{
 }
 
 h1{
-    color: white;
+    color: var(--cor-da-escrita);
 }
 
