@@ -1,3 +1,7 @@
+:root {
+    --cor-de-fundo:#008B8B
+}
+
 body{
     background-color: #000000;
 }
@@ -5,3 +9,4 @@ body{
 h1{
     color: white;
 }
+
