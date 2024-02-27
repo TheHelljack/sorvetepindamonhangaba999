@@ -1,14 +1,16 @@
 :root {
-    --cor-de-fundo: #9AFF9A;
-    --cor-da-escrita:#008B45;
+    --cor-de-fundo: #5CACEE;
+    --cor-da-escrita: #3A5FCD;
 }
 
-body{
+body {
     background-color: var(--cor-de-fundo);
 }
 
-h1{
+h1 {
     color: var(--cor-da-escrita);
 }
 
-.Zoro{display: flex}
+.Zoro {
+    display: flex background-color: var( #008B45)
+}
