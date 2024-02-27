@@ -1,6 +1,8 @@
 :root {
     --cor-de-fundo: #5CACEE;
     --cor-da-escrita: #3A5FCD;
+    --verde:#008B45;
+
 }
 
 body {
@@ -12,5 +14,6 @@ h1 {
 }
 
 .Zoro {
-    display: flex background-color: var( #008B45)
+    display: flex;
+     background-color: var(--verde);
 }
