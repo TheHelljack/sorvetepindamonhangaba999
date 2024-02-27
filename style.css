@@ -16,4 +16,7 @@ h1 {
 .Zoro {
     display: flex;
      background-color: var(--verde);
+     flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
 }
