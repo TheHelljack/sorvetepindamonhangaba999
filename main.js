@@ -1,2 +1,3 @@
 alert('ola mundo');
- let zoro=prompt('Qual o seu nome?');
+ let nomeUsuario=prompt('Qual o seu nome?');
+ let texto= document.querySelector('#texto');
