@@ -1,2 +1,2 @@
 alert('ola mundo');
-prompt('Qual o seu nome?');
+ let zoro=prompt('Qual o seu nome?');
