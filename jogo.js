@@ -1,5 +1,5 @@
 let numeroSecreto = 87;
-
+consolw.log(numeroSecreto);
 let chute = '';
 
 while(chute == '') {
