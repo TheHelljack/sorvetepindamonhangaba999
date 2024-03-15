@@ -1,6 +1,7 @@
-let numeroSecreto = Math.random()*100;
+let numeroSecreto = Math.floor(Math.random()*100) ;
 console.log(numeroSecreto);
 let chute = '';
+
 
 while(chute == '') {
     chute = prompt('escolha um numero de 0 a 100');
