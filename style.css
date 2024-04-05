@@ -24,3 +24,9 @@ h1 {
 #texto{
     color: forestgreen;
 }
+
+
+.contagem{
+    background-color: aquamarine ;
+    padding: 20px 0;
+}
