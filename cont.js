@@ -1,5 +1,5 @@
 const botons = document.querySelectorAll('.objetivos');
-
+const textos = document.querySelectorAll('.aba-conteudo')
 
 
 for (let x = 0; x<botons.length; x++){
