@@ -46,3 +46,7 @@ h1 {
 .aba-conteudo{
     display: none;
 }
+
+.ativa{
+    display: block;
+}
