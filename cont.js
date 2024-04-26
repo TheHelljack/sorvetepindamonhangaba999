@@ -15,3 +15,5 @@ textos[x].classList.add('ativa');
 //botons[x].classList.remove('ativo');
 }
 }
+
+const contadores = document.querySelectorAll('.contador');
