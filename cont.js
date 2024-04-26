@@ -25,6 +25,7 @@ let tempoObjetivo4 = new Date('2024-12-13T00:00');
 
 let tempos = [tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4];
 
+function () {
 let tempoFinal = tempoObjetivo1 - tempoAtual;
 
 let segundos = Math.floor (tempoFinal/1000);
@@ -37,5 +38,5 @@ minutos %= 60;
 horas %= 24;
 
 contadores [0].textContent = dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos " ;
-
+}
 
