@@ -22,9 +22,9 @@ let tempoObjetivo1 = new Date('2040-08-07T00:00');
 let tempoFinal = tempoObjetivo1 - tempoAtual;
 
 let segundos = Math.floor (tempoFinal/1000);
-let minutos = Math.floor (minutos/60);
-let horas = Math.floor (hora/60);
-let dias = Math.floor (dias/24);
+let minutos = Math.floor (segundos/60);
+let horas = Math.floor (minutos/60);
+let dias = Math.floor (horas/24);
 
 contadores [0].textContent = dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos " ;
 
