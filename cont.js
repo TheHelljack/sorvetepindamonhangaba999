@@ -17,3 +17,5 @@ textos[x].classList.add('ativa');
 }
 
 const contadores = document.querySelectorAll('.contador');
+let tempoAtual = new Date ();
+let tempoObjetivo1 = new Date('2040-08-07T00:00');
