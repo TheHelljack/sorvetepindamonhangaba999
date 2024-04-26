@@ -19,6 +19,10 @@ textos[x].classList.add('ativa');
 const contadores = document.querySelectorAll('.contador');
 let tempoAtual = new Date ();
 let tempoObjetivo1 = new Date('2040-08-07T00:00');
+let tempoObjetivo2 = new Date('2025-02-01T00:00');
+let tempoObjetivo3 = new Date('2024-11-03T00:00');
+let tempoObjetivo4 = new Date('2024-12-13T00:00');
+
 let tempoFinal = tempoObjetivo1 - tempoAtual;
 
 let segundos = Math.floor (tempoFinal/1000);
