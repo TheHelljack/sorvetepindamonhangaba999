@@ -28,7 +28,7 @@ h1 {
 
 .contagem{
     background-color: #32CD32;
-    padding: 20px 0;
+    padding: 50000000px 0;
     text-align: center;
 }
 
@@ -39,8 +39,8 @@ h1 {
 
 
 .ativo{
-    background-color: #E0FFFF;
-    color: #000000;
+    background-color: #E0FF37;
+    color: #050900;
 }
 
 .aba-conteudo{
@@ -48,5 +48,5 @@ h1 {
 }
 
 .ativa{
-    display: block;
+    display: flex;
 }
